@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entorno Virtual
+/venv
+/.venv
+
+# Build y Distribucion (PyInstaller/cx_Freeze)
+/dist
+/build
+*.spec
+
+# Archivos de Sistema Operativo
+.DS_Store
